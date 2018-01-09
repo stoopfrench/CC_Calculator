@@ -1,6 +1,0 @@
-Calculator To DO:
-
-move the +/- button to the "more option page"
-
-add a "aswr" button in its place that puts the last answer up on screen
-	-clear out the display on the next click after the = is hit
