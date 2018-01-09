@@ -7,6 +7,8 @@ app.use(express.static('./public'))
 app.get('/', function(req, res){
 
 	res.sendFile('./public/html/index.html', {root: './'})
+
+	console.log('sent index.html')
 })
 
 var port = 8088
